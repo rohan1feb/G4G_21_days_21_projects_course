@@ -1,0 +1,21 @@
+trainer = SFTTrainer(
+    model=model,
+    train_dataset=data,
+    peft_config=peft_config,
+    dataset_text_field="text",
+    args=training_arguments,
+    tokenizer=tokenizer,
+    packing=False, # HOMEWORK
+    max_seq_length=512
+)
+
+Assignment: What does "packing = False" mean?
+
+Solution:
+This refers to the method the training dataset is treated. Each dataset text is treated as an independent sample. Multiple short examples are not merged to form long sentences.
+
+Pros:
+Easier to debug and interpret
+
+Cons:
+Less efficient if training dataset has a lot of short texts.
