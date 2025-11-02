@@ -1,0 +1,1013 @@
+[COMPLETE] ● https://lmo.wikipedia.org                                                                            | ✓ | ⏱: 1.18s
+[FETCH]... ↓ https://lld.wikipedia.org                                                                            | ✓ | ⏱: 1.20s 
+[SCRAPE].. ◆ https://lld.wikipedia.org                                                                            | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://lld.wikipedia.org                                                                            | ✓ | ⏱: 1.20s
+[FETCH]... ↓ https://lt.wikipedia.org                                                                             | ✓ | ⏱: 1.30s 
+[SCRAPE].. ◆ https://lt.wikipedia.org                                                                             | ✓ | ⏱: 0.06s 
+[COMPLETE] ● https://lt.wikipedia.org                                                                             | ✓ | ⏱: 1.36s 
+[FETCH]... ↓ https://ltg.wikipedia.org                                                                            | ✓ | ⏱: 1.60s 
+[SCRAPE].. ◆ https://ltg.wikipedia.org                                                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://ltg.wikipedia.org                                                                            | ✓ | ⏱: 1.61s
+[FETCH]... ↓ https://ml.wikipedia.org                                                                             | ✓ | ⏱: 0.60s 
+[SCRAPE].. ◆ https://ml.wikipedia.org                                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://ml.wikipedia.org                                                                             | ✓ | ⏱: 0.60s
+[FETCH]... ↓ https://mad.wikipedia.org                                                                            | ✓ | ⏱: 1.58s 
+[SCRAPE].. ◆ https://mad.wikipedia.org                                                                            | ✓ | ⏱: 0.01s 
+[COMPLETE] ● https://mad.wikipedia.org                                                                            | ✓ | ⏱: 1.59s
+[FETCH]... ↓ https://mg.wikipedia.org                                                                             | ✓ | ⏱: 1.59s 
+[SCRAPE].. ◆ https://mg.wikipedia.org                                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://mg.wikipedia.org                                                                             | ✓ | ⏱: 1.59s
+[FETCH]... ↓ https://mai.wikipedia.org                                                                            | ✓ | ⏱: 1.63s
+[SCRAPE].. ◆ https://mai.wikipedia.org                                                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://mai.wikipedia.org                                                                            | ✓ | ⏱: 1.64s
+[FETCH]... ↓ https://mi.wikipedia.org                                                                             | ✓ | ⏱: 1.51s 
+[SCRAPE].. ◆ https://mi.wikipedia.org                                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://mi.wikipedia.org                                                                             | ✓ | ⏱: 1.52s
+[FETCH]... ↓ https://map-bms.wikipedia.org                                                                        | ✓ | ⏱: 1.76s 
+[SCRAPE].. ◆ https://map-bms.wikipedia.org                                                                        | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://map-bms.wikipedia.org                                                                        | ✓ | ⏱: 1.76s
+[FETCH]... ↓ https://mhr.wikipedia.org                                                                            | ✓ | ⏱: 1.69s 
+[SCRAPE].. ◆ https://mhr.wikipedia.org                                                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://mhr.wikipedia.org                                                                            | ✓ | ⏱: 1.69s
+[FETCH]... ↓ https://mdf.wikipedia.org                                                                            | ✓ | ⏱: 1.84s 
+[SCRAPE].. ◆ https://mdf.wikipedia.org                                                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://mdf.wikipedia.org                                                                            | ✓ | ⏱: 1.84s
+[FETCH]... ↓ https://min.wikipedia.org                                                                            | ✓ | ⏱: 1.70s 
+[SCRAPE].. ◆ https://min.wikipedia.org                                                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://min.wikipedia.org                                                                            | ✓ | ⏱: 1.70s
+[FETCH]... ↓ https://mk.wikipedia.org                                                                             | ✓ | ⏱: 1.70s 
+[SCRAPE].. ◆ https://mk.wikipedia.org                                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://mk.wikipedia.org                                                                             | ✓ | ⏱: 1.71s
+[FETCH]... ↓ https://mrj.wikipedia.org                                                                            | ✓ | ⏱: 1.59s 
+[SCRAPE].. ◆ https://mrj.wikipedia.org                                                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://mrj.wikipedia.org                                                                            | ✓ | ⏱: 1.59s
+[FETCH]... ↓ https://mt.wikipedia.org                                                                             | ✓ | ⏱: 1.61s 
+[SCRAPE].. ◆ https://mt.wikipedia.org                                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://mt.wikipedia.org                                                                             | ✓ | ⏱: 1.61s
+[FETCH]... ↓ https://mnw.wikipedia.org                                                                            | ✓ | ⏱: 1.70s 
+[SCRAPE].. ◆ https://mnw.wikipedia.org                                                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://mnw.wikipedia.org                                                                            | ✓ | ⏱: 1.71s
+[FETCH]... ↓ https://mn.wikipedia.org                                                                             | ✓ | ⏱: 1.74s
+[SCRAPE].. ◆ https://mn.wikipedia.org                                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://mn.wikipedia.org                                                                             | ✓ | ⏱: 1.75s
+[FETCH]... ↓ https://mos.wikipedia.org                                                                            | ✓ | ⏱: 1.71s
+[SCRAPE].. ◆ https://mos.wikipedia.org                                                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://mos.wikipedia.org                                                                            | ✓ | ⏱: 1.72s
+[FETCH]... ↓ https://mzn.wikipedia.org                                                                            | ✓ | ⏱: 0.79s
+[SCRAPE].. ◆ https://mzn.wikipedia.org                                                                            | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://mzn.wikipedia.org                                                                            | ✓ | ⏱: 0.80s
+[FETCH]... ↓ https://mwl.wikipedia.org                                                                            | ✓ | ⏱: 1.50s 
+[SCRAPE].. ◆ https://mwl.wikipedia.org                                                                            | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://mwl.wikipedia.org                                                                            | ✓ | ⏱: 1.51s
+[FETCH]... ↓ https://mni.wikipedia.org                                                                            | ✓ | ⏱: 1.77s 
+[SCRAPE].. ◆ https://mni.wikipedia.org                                                                            | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://mni.wikipedia.org                                                                            | ✓ | ⏱: 1.77s
+[FETCH]... ↓ https://my.wikipedia.org                                                                             | ✓ | ⏱: 1.44s 
+[SCRAPE].. ◆ https://my.wikipedia.org                                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://my.wikipedia.org                                                                             | ✓ | ⏱: 1.45s
+[FETCH]... ↓ https://nah.wikipedia.org                                                                            | ✓ | ⏱: 1.12s 
+[SCRAPE].. ◆ https://nah.wikipedia.org                                                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://nah.wikipedia.org                                                                            | ✓ | ⏱: 1.12s
+[FETCH]... ↓ https://mr.wikipedia.org                                                                             | ✓ | ⏱: 2.19s 
+[SCRAPE].. ◆ https://mr.wikipedia.org                                                                             | ✓ | ⏱: 0.23s 
+[COMPLETE] ● https://mr.wikipedia.org                                                                             | ✓ | ⏱: 2.43s 
+[FETCH]... ↓ https://ms.wikipedia.org                                                                             | ✓ | ⏱: 2.42s 
+[SCRAPE].. ◆ https://ms.wikipedia.org                                                                             | ✓ | ⏱: 0.22s 
+[COMPLETE] ● https://ms.wikipedia.org                                                                             | ✓ | ⏱: 2.64s 
+[FETCH]... ↓ https://myv.wikipedia.org                                                                            | ✓ | ⏱: 2.19s 
+[SCRAPE].. ◆ https://myv.wikipedia.org                                                                            | ✓ | ⏱: 0.13s 
+[COMPLETE] ● https://myv.wikipedia.org                                                                            | ✓ | ⏱: 2.33s 
+[FETCH]... ↓ https://nl.wikipedia.org                                                                             | ✓ | ⏱: 1.68s 
+[SCRAPE].. ◆ https://nl.wikipedia.org                                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://nl.wikipedia.org                                                                             | ✓ | ⏱: 1.69s
+[FETCH]... ↓ https://nia.wikipedia.org                                                                            | ✓ | ⏱: 1.75s
+[SCRAPE].. ◆ https://nia.wikipedia.org                                                                            | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://nia.wikipedia.org                                                                            | ✓ | ⏱: 1.75s
+[FETCH]... ↓ https://nrm.wikipedia.org                                                                            | ✓ | ⏱: 1.40s
+[SCRAPE].. ◆ https://nrm.wikipedia.org                                                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://nrm.wikipedia.org                                                                            | ✓ | ⏱: 1.41s
+[FETCH]... ↓ https://nds-nl.wikipedia.org                                                                         | ✓ | ⏱: 1.97s 
+[SCRAPE].. ◆ https://nds-nl.wikipedia.org                                                                         | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://nds-nl.wikipedia.org                                                                         | ✓ | ⏱: 1.98s
+[FETCH]... ↓ https://nds.wikipedia.org                                                                            | ✓ | ⏱: 1.97s
+[SCRAPE].. ◆ https://nds.wikipedia.org                                                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://nds.wikipedia.org                                                                            | ✓ | ⏱: 1.98s
+[FETCH]... ↓ https://nso.wikipedia.org                                                                            | ✓ | ⏱: 1.44s 
+[SCRAPE].. ◆ https://nso.wikipedia.org                                                                            | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://nso.wikipedia.org                                                                            | ✓ | ⏱: 1.45s
+[FETCH]... ↓ https://ne.wikipedia.org                                                                             | ✓ | ⏱: 1.94s
+[SCRAPE].. ◆ https://ne.wikipedia.org                                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://ne.wikipedia.org                                                                             | ✓ | ⏱: 1.95s
+[FETCH]... ↓ https://nov.wikipedia.org                                                                            | ✓ | ⏱: 1.50s
+[SCRAPE].. ◆ https://nov.wikipedia.org                                                                            | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://nov.wikipedia.org                                                                            | ✓ | ⏱: 1.50s 
+[FETCH]... ↓ https://nv.wikipedia.org                                                                             | ✓ | ⏱: 1.47s
+[SCRAPE].. ◆ https://nv.wikipedia.org                                                                             | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://nv.wikipedia.org                                                                             | ✓ | ⏱: 1.47s
+[FETCH]... ↓ https://ny.wikipedia.org                                                                             | ✓ | ⏱: 1.47s 
+[SCRAPE].. ◆ https://ny.wikipedia.org                                                                             | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://ny.wikipedia.org                                                                             | ✓ | ⏱: 1.48s
+[FETCH]... ↓ https://nqo.wikipedia.org                                                                            | ✓ | ⏱: 1.52s 
+[SCRAPE].. ◆ https://nqo.wikipedia.org                                                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://nqo.wikipedia.org                                                                            | ✓ | ⏱: 1.53s
+[FETCH]... ↓ https://new.wikipedia.org                                                                            | ✓ | ⏱: 2.01s 
+[SCRAPE].. ◆ https://new.wikipedia.org                                                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://new.wikipedia.org                                                                            | ✓ | ⏱: 2.02s
+[FETCH]... ↓ https://oc.wikipedia.org                                                                             | ✓ | ⏱: 1.39s 
+[SCRAPE].. ◆ https://oc.wikipedia.org                                                                             | ✓ | ⏱: 0.12s 
+[COMPLETE] ● https://oc.wikipedia.org                                                                             | ✓ | ⏱: 1.51s 
+[FETCH]... ↓ https://nn.wikipedia.org                                                                             | ✓ | ⏱: 1.85s
+[SCRAPE].. ◆ https://nn.wikipedia.org                                                                             | ✓ | ⏱: 0.13s 
+[COMPLETE] ● https://nn.wikipedia.org                                                                             | ✓ | ⏱: 1.98s 
+[FETCH]... ↓ https://nap.wikipedia.org                                                                            | ✓ | ⏱: 2.54s
+[SCRAPE].. ◆ https://nap.wikipedia.org                                                                            | ✓ | ⏱: 0.12s 
+[COMPLETE] ● https://nap.wikipedia.org                                                                            | ✓ | ⏱: 2.67s 
+[FETCH]... ↓ https://olo.wikipedia.org                                                                            | ✓ | ⏱: 1.73s 
+[SCRAPE].. ◆ https://olo.wikipedia.org                                                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://olo.wikipedia.org                                                                            | ✓ | ⏱: 1.74s
+[FETCH]... ↓ https://or.wikipedia.org                                                                             | ✓ | ⏱: 1.28s 
+[SCRAPE].. ◆ https://or.wikipedia.org                                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://or.wikipedia.org                                                                             | ✓ | ⏱: 1.28s
+[FETCH]... ↓ https://no.wikipedia.org                                                                             | ✓ | ⏱: 2.31s 
+[SCRAPE].. ◆ https://no.wikipedia.org                                                                             | ✓ | ⏱: 0.13s 
+[COMPLETE] ● https://no.wikipedia.org                                                                             | ✓ | ⏱: 2.45s 
+[FETCH]... ↓ https://os.wikipedia.org                                                                             | ✓ | ⏱: 1.23s
+[SCRAPE].. ◆ https://os.wikipedia.org                                                                             | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://os.wikipedia.org                                                                             | ✓ | ⏱: 1.23s
+[FETCH]... ↓ https://om.wikipedia.org                                                                             | ✓ | ⏱: 1.68s 
+[SCRAPE].. ◆ https://om.wikipedia.org                                                                             | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://om.wikipedia.org                                                                             | ✓ | ⏱: 1.68s
+[FETCH]... ↓ https://pa.wikipedia.org                                                                             | ✓ | ⏱: 1.43s 
+[SCRAPE].. ◆ https://pa.wikipedia.org                                                                             | ✓ | ⏱: 0.13s 
+[COMPLETE] ● https://pa.wikipedia.org                                                                             | ✓ | ⏱: 1.56s 
+[FETCH]... ↓ https://pap.wikipedia.org                                                                            | ✓ | ⏱: 1.71s 
+[SCRAPE].. ◆ https://pap.wikipedia.org                                                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://pap.wikipedia.org                                                                            | ✓ | ⏱: 1.71s
+[FETCH]... ↓ https://pms.wikipedia.org                                                                            | ✓ | ⏱: 2.03s 
+[SCRAPE].. ◆ https://pms.wikipedia.org                                                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://pms.wikipedia.org                                                                            | ✓ | ⏱: 2.04s
+[FETCH]... ↓ https://qu.wikipedia.org                                                                             | ✓ | ⏱: 1.62s 
+[SCRAPE].. ◆ https://qu.wikipedia.org                                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://qu.wikipedia.org                                                                             | ✓ | ⏱: 1.62s
+[FETCH]... ↓ https://pdc.wikipedia.org                                                                            | ✓ | ⏱: 2.15s
+[SCRAPE].. ◆ https://pdc.wikipedia.org                                                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://pdc.wikipedia.org                                                                            | ✓ | ⏱: 2.16s
+[FETCH]... ↓ https://pfl.wikipedia.org                                                                            | ✓ | ⏱: 2.16s
+[SCRAPE].. ◆ https://pfl.wikipedia.org                                                                            | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://pfl.wikipedia.org                                                                            | ✓ | ⏱: 2.16s 
+[FETCH]... ↓ https://pcm.wikipedia.org                                                                            | ✓ | ⏱: 2.21s 
+[SCRAPE].. ◆ https://pcm.wikipedia.org                                                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://pcm.wikipedia.org                                                                            | ✓ | ⏱: 2.21s
+[FETCH]... ↓ https://pag.wikipedia.org                                                                            | ✓ | ⏱: 2.28s 
+[SCRAPE].. ◆ https://pag.wikipedia.org                                                                            | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://pag.wikipedia.org                                                                            | ✓ | ⏱: 2.28s 
+[FETCH]... ↓ https://ps.wikipedia.org                                                                             | ✓ | ⏱: 1.95s
+[SCRAPE].. ◆ https://ps.wikipedia.org                                                                             | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://ps.wikipedia.org                                                                             | ✓ | ⏱: 1.96s
+[FETCH]... ↓ https://pcd.wikipedia.org                                                                            | ✓ | ⏱: 2.25s 
+[SCRAPE].. ◆ https://pcd.wikipedia.org                                                                            | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://pcd.wikipedia.org                                                                            | ✓ | ⏱: 2.26s
+[FETCH]... ↓ https://pnb.wikipedia.org                                                                            | ✓ | ⏱: 2.15s 
+[SCRAPE].. ◆ https://pnb.wikipedia.org                                                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://pnb.wikipedia.org                                                                            | ✓ | ⏱: 2.16s
+[FETCH]... ↓ https://pi.wikipedia.org                                                                             | ✓ | ⏱: 2.30s 
+[SCRAPE].. ◆ https://pi.wikipedia.org                                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://pi.wikipedia.org                                                                             | ✓ | ⏱: 2.30s
+[FETCH]... ↓ https://rm.wikipedia.org                                                                             | ✓ | ⏱: 1.60s
+[SCRAPE].. ◆ https://rm.wikipedia.org                                                                             | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://rm.wikipedia.org                                                                             | ✓ | ⏱: 1.61s
+[FETCH]... ↓ https://pl.wikipedia.org                                                                             | ✓ | ⏱: 2.38s 
+[SCRAPE].. ◆ https://pl.wikipedia.org                                                                             | ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://pl.wikipedia.org                                                                             | ✓ | ⏱: 2.46s 
+[FETCH]... ↓ https://roa-tara.wikipedia.org                                                                       | ✓ | ⏱: 1.78s 
+[SCRAPE].. ◆ https://roa-tara.wikipedia.org                                                                       | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://roa-tara.wikipedia.org                                                                       | ✓ | ⏱: 1.78s
+[FETCH]... ↓ https://ru.wikipedia.org                                                                             | ✓ | ⏱: 1.78s
+[SCRAPE].. ◆ https://ru.wikipedia.org                                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://ru.wikipedia.org                                                                             | ✓ | ⏱: 1.79s
+[FETCH]... ↓ https://ro.wikipedia.org                                                                             | ✓ | ⏱: 1.96s 
+[SCRAPE].. ◆ https://ro.wikipedia.org                                                                             | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://ro.wikipedia.org                                                                             | ✓ | ⏱: 1.96s
+[FETCH]... ↓ https://roa-rup.wikipedia.org                                                                        | ✓ | ⏱: 1.90s 
+[SCRAPE].. ◆ https://roa-rup.wikipedia.org                                                                        | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://roa-rup.wikipedia.org                                                                        | ✓ | ⏱: 1.90s
+[FETCH]... ↓ https://pam.wikipedia.org                                                                            | ✓ | ⏱: 2.88s 
+[SCRAPE].. ◆ https://pam.wikipedia.org                                                                            | ✓ | ⏱: 0.07s 
+[COMPLETE] ● https://pam.wikipedia.org                                                                            | ✓ | ⏱: 2.96s 
+[FETCH]... ↓ https://pt.wikipedia.org                                                                             | ✓ | ⏱: 2.50s
+[SCRAPE].. ◆ https://pt.wikipedia.org                                                                             | ✓ | ⏱: 0.17s 
+[COMPLETE] ● https://pt.wikipedia.org                                                                             | ✓ | ⏱: 2.68s 
+[FETCH]... ↓ https://sa.wikipedia.org                                                                             | ✓ | ⏱: 0.99s
+[SCRAPE].. ◆ https://sa.wikipedia.org                                                                             | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://sa.wikipedia.org                                                                             | ✓ | ⏱: 0.99s
+[FETCH]... ↓ https://rue.wikipedia.org                                                                            | ✓ | ⏱: 1.80s 
+[SCRAPE].. ◆ https://rue.wikipedia.org                                                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://rue.wikipedia.org                                                                            | ✓ | ⏱: 1.81s
+[FETCH]... ↓ https://si.wikipedia.org                                                                             | ✓ | ⏱: 0.87s 
+[SCRAPE].. ◆ https://si.wikipedia.org                                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://si.wikipedia.org                                                                             | ✓ | ⏱: 0.88s
+[FETCH]... ↓ https://shi.wikipedia.org                                                                            | ✓ | ⏱: 1.06s
+[SCRAPE].. ◆ https://shi.wikipedia.org                                                                            | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://shi.wikipedia.org                                                                            | ✓ | ⏱: 1.06s
+[FETCH]... ↓ https://sc.wikipedia.org                                                                             | ✓ | ⏱: 1.22s 
+[SCRAPE].. ◆ https://sc.wikipedia.org                                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://sc.wikipedia.org                                                                             | ✓ | ⏱: 1.23s
+[FETCH]... ↓ https://sat.wikipedia.org                                                                            | ✓ | ⏱: 1.25s
+[SCRAPE].. ◆ https://sat.wikipedia.org                                                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://sat.wikipedia.org                                                                            | ✓ | ⏱: 1.25s
+[FETCH]... ↓ https://rw.wikipedia.org                                                                             | ✓ | ⏱: 1.79s 
+[SCRAPE].. ◆ https://rw.wikipedia.org                                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://rw.wikipedia.org                                                                             | ✓ | ⏱: 1.80s
+[FETCH]... ↓ https://scn.wikipedia.org                                                                            | ✓ | ⏱: 1.31s 
+[SCRAPE].. ◆ https://scn.wikipedia.org                                                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://scn.wikipedia.org                                                                            | ✓ | ⏱: 1.31s
+[FETCH]... ↓ https://sd.wikipedia.org                                                                             | ✓ | ⏱: 1.32s 
+[SCRAPE].. ◆ https://sd.wikipedia.org                                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://sd.wikipedia.org                                                                             | ✓ | ⏱: 1.33s
+[FETCH]... ↓ https://sah.wikipedia.org                                                                            | ✓ | ⏱: 1.41s
+[SCRAPE].. ◆ https://sah.wikipedia.org                                                                            | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://sah.wikipedia.org                                                                            | ✓ | ⏱: 1.41s
+[FETCH]... ↓ https://sk.wikipedia.org                                                                             | ✓ | ⏱: 0.85s 
+[SCRAPE].. ◆ https://sk.wikipedia.org                                                                             | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://sk.wikipedia.org                                                                             | ✓ | ⏱: 0.85s
+[FETCH]... ↓ https://shn.wikipedia.org                                                                            | ✓ | ⏱: 1.24s
+[SCRAPE].. ◆ https://shn.wikipedia.org                                                                            | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://shn.wikipedia.org                                                                            | ✓ | ⏱: 1.25s 
+[FETCH]... ↓ https://sco.wikipedia.org                                                                            | ✓ | ⏱: 1.37s
+[SCRAPE].. ◆ https://sco.wikipedia.org                                                                            | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://sco.wikipedia.org                                                                            | ✓ | ⏱: 1.38s 
+[FETCH]... ↓ https://se.wikipedia.org                                                                             | ✓ | ⏱: 1.62s 
+[SCRAPE].. ◆ https://se.wikipedia.org                                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://se.wikipedia.org                                                                             | ✓ | ⏱: 1.63s 
+[FETCH]... ↓ https://skr.wikipedia.org                                                                            | ✓ | ⏱: 1.43s 
+[SCRAPE].. ◆ https://skr.wikipedia.org                                                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://skr.wikipedia.org                                                                            | ✓ | ⏱: 1.43s
+[FETCH]... ↓ https://sl.wikipedia.org                                                                             | ✓ | ⏱: 1.40s 
+[SCRAPE].. ◆ https://sl.wikipedia.org                                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://sl.wikipedia.org                                                                             | ✓ | ⏱: 1.41s
+[FETCH]... ↓ https://sm.wikipedia.org                                                                             | ✓ | ⏱: 1.33s 
+[SCRAPE].. ◆ https://sm.wikipedia.org                                                                             | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://sm.wikipedia.org                                                                             | ✓ | ⏱: 1.33s
+[FETCH]... ↓ https://sn.wikipedia.org                                                                             | ✓ | ⏱: 1.15s 
+[SCRAPE].. ◆ https://sn.wikipedia.org                                                                             | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://sn.wikipedia.org                                                                             | ✓ | ⏱: 1.16s
+[FETCH]... ↓ https://so.wikipedia.org                                                                             | ✓ | ⏱: 1.02s 
+[SCRAPE].. ◆ https://so.wikipedia.org                                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://so.wikipedia.org                                                                             | ✓ | ⏱: 1.02s
+[FETCH]... ↓ https://sh.wikipedia.org                                                                             | ✓ | ⏱: 2.05s
+[SCRAPE].. ◆ https://sh.wikipedia.org                                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://sh.wikipedia.org                                                                             | ✓ | ⏱: 2.06s
+[FETCH]... ↓ https://smn.wikipedia.org                                                                            | ✓ | ⏱: 1.25s
+[SCRAPE].. ◆ https://smn.wikipedia.org                                                                            | ✓ | ⏱: 0.16s 
+[COMPLETE] ● https://smn.wikipedia.org                                                                            | ✓ | ⏱: 1.41s 
+[FETCH]... ↓ https://simple.wikipedia.org                                                                         | ✓ | ⏱: 1.81s 
+[SCRAPE].. ◆ https://simple.wikipedia.org                                                                         | ✓ | ⏱: 0.10s 
+[COMPLETE] ● https://simple.wikipedia.org                                                                         | ✓ | ⏱: 1.91s 
+[FETCH]... ↓ https://su.wikipedia.org                                                                             | ✓ | ⏱: 1.06s
+[SCRAPE].. ◆ https://su.wikipedia.org                                                                             | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://su.wikipedia.org                                                                             | ✓ | ⏱: 1.06s 
+[FETCH]... ↓ https://sw.wikipedia.org                                                                             | ✓ | ⏱: 1.05s
+[SCRAPE].. ◆ https://sw.wikipedia.org                                                                             | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://sw.wikipedia.org                                                                             | ✓ | ⏱: 1.06s 
+[FETCH]... ↓ https://srn.wikipedia.org                                                                            | ✓ | ⏱: 1.23s
+[SCRAPE].. ◆ https://srn.wikipedia.org                                                                            | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://srn.wikipedia.org                                                                            | ✓ | ⏱: 1.23s
+[FETCH]... ↓ https://sv.wikipedia.org                                                                             | ✓ | ⏱: 1.08s 
+[SCRAPE].. ◆ https://sv.wikipedia.org                                                                             | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://sv.wikipedia.org                                                                             | ✓ | ⏱: 1.08s 
+[FETCH]... ↓ https://szl.wikipedia.org                                                                            | ✓ | ⏱: 1.06s
+[SCRAPE].. ◆ https://szl.wikipedia.org                                                                            | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://szl.wikipedia.org                                                                            | ✓ | ⏱: 1.07s
+[FETCH]... ↓ https://st.wikipedia.org                                                                             | ✓ | ⏱: 1.18s 
+[SCRAPE].. ◆ https://st.wikipedia.org                                                                             | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://st.wikipedia.org                                                                             | ✓ | ⏱: 1.19s
+[FETCH]... ↓ https://ss.wikipedia.org                                                                             | ✓ | ⏱: 1.26s 
+[SCRAPE].. ◆ https://ss.wikipedia.org                                                                             | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://ss.wikipedia.org                                                                             | ✓ | ⏱: 1.26s
+[FETCH]... ↓ https://sq.wikipedia.org                                                                             | ✓ | ⏱: 1.59s 
+[SCRAPE].. ◆ https://sq.wikipedia.org                                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://sq.wikipedia.org                                                                             | ✓ | ⏱: 1.60s
+[FETCH]... ↓ https://sr.wikipedia.org                                                                             | ✓ | ⏱: 1.68s 
+[SCRAPE].. ◆ https://sr.wikipedia.org                                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://sr.wikipedia.org                                                                             | ✓ | ⏱: 1.73s 
+[FETCH]... ↓ https://syl.wikipedia.org                                                                            | ✓ | ⏱: 1.60s 
+[SCRAPE].. ◆ https://syl.wikipedia.org                                                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://syl.wikipedia.org                                                                            | ✓ | ⏱: 1.61s
+[FETCH]... ↓ https://stq.wikipedia.org                                                                            | ✓ | ⏱: 1.68s
+[SCRAPE].. ◆ https://stq.wikipedia.org                                                                            | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://stq.wikipedia.org                                                                            | ✓ | ⏱: 1.68s
+[FETCH]... ↓ https://szy.wikipedia.org                                                                            | ✓ | ⏱: 1.34s 
+[SCRAPE].. ◆ https://szy.wikipedia.org                                                                            | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://szy.wikipedia.org                                                                            | ✓ | ⏱: 1.35s
+[FETCH]... ↓ https://te.wikipedia.org                                                                             | ✓ | ⏱: 0.98s 
+[SCRAPE].. ◆ https://te.wikipedia.org                                                                             | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://te.wikipedia.org                                                                             | ✓ | ⏱: 0.99s
+[FETCH]... ↓ https://tay.wikipedia.org                                                                            | ✓ | ⏱: 1.05s 
+[SCRAPE].. ◆ https://tay.wikipedia.org                                                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://tay.wikipedia.org                                                                            | ✓ | ⏱: 1.06s
+[FETCH]... ↓ https://tet.wikipedia.org                                                                            | ✓ | ⏱: 1.13s 
+[SCRAPE].. ◆ https://tet.wikipedia.org                                                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://tet.wikipedia.org                                                                            | ✓ | ⏱: 1.14s
+[FETCH]... ↓ https://tg.wikipedia.org                                                                             | ✓ | ⏱: 1.08s
+[SCRAPE].. ◆ https://tg.wikipedia.org                                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://tg.wikipedia.org                                                                             | ✓ | ⏱: 1.09s
+[FETCH]... ↓ https://tl.wikipedia.org                                                                             | ✓ | ⏱: 1.05s 
+[SCRAPE].. ◆ https://tl.wikipedia.org                                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://tl.wikipedia.org                                                                             | ✓ | ⏱: 1.05s
+[FETCH]... ↓ https://tly.wikipedia.org                                                                            | ✓ | ⏱: 1.16s 
+[SCRAPE].. ◆ https://tly.wikipedia.org                                                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://tly.wikipedia.org                                                                            | ✓ | ⏱: 1.17s
+[FETCH]... ↓ https://tk.wikipedia.org                                                                             | ✓ | ⏱: 1.29s
+[SCRAPE].. ◆ https://tk.wikipedia.org                                                                             | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://tk.wikipedia.org                                                                             | ✓ | ⏱: 1.30s 
+[FETCH]... ↓ https://tr.wikipedia.org                                                                             | ✓ | ⏱: 1.14s
+[SCRAPE].. ◆ https://tr.wikipedia.org                                                                             | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://tr.wikipedia.org                                                                             | ✓ | ⏱: 1.14s
+[FETCH]... ↓ https://ta.wikipedia.org                                                                             | ✓ | ⏱: 1.65s 
+[SCRAPE].. ◆ https://ta.wikipedia.org                                                                             | ✓ | ⏱: 0.18s 
+[COMPLETE] ● https://ta.wikipedia.org                                                                             | ✓ | ⏱: 1.84s 
+[FETCH]... ↓ https://to.wikipedia.org                                                                             | ✓ | ⏱: 1.36s
+[SCRAPE].. ◆ https://to.wikipedia.org                                                                             | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://to.wikipedia.org                                                                             | ✓ | ⏱: 1.37s
+[FETCH]... ↓ https://tn.wikipedia.org                                                                             | ✓ | ⏱: 1.38s 
+[SCRAPE].. ◆ https://tn.wikipedia.org                                                                             | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://tn.wikipedia.org                                                                             | ✓ | ⏱: 1.38s
+[FETCH]... ↓ https://tpi.wikipedia.org                                                                            | ✓ | ⏱: 1.37s 
+[SCRAPE].. ◆ https://tpi.wikipedia.org                                                                            | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://tpi.wikipedia.org                                                                            | ✓ | ⏱: 1.37s 
+[FETCH]... ↓ https://tum.wikipedia.org                                                                            | ✓ | ⏱: 1.05s
+[SCRAPE].. ◆ https://tum.wikipedia.org                                                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://tum.wikipedia.org                                                                            | ✓ | ⏱: 1.06s
+[FETCH]... ↓ https://tt.wikipedia.org                                                                             | ✓ | ⏱: 1.36s
+[SCRAPE].. ◆ https://tt.wikipedia.org                                                                             | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://tt.wikipedia.org                                                                             | ✓ | ⏱: 1.36s
+[FETCH]... ↓ https://trv.wikipedia.org                                                                            | ✓ | ⏱: 1.38s 
+[SCRAPE].. ◆ https://trv.wikipedia.org                                                                            | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://trv.wikipedia.org                                                                            | ✓ | ⏱: 1.39s
+[FETCH]... ↓ https://th.wikipedia.org                                                                             | ✓ | ⏱: 1.73s
+[SCRAPE].. ◆ https://th.wikipedia.org                                                                             | ✓ | ⏱: 0.10s 
+[COMPLETE] ● https://th.wikipedia.org                                                                             | ✓ | ⏱: 1.84s 
+[FETCH]... ↓ https://ty.wikipedia.org                                                                             | ✓ | ⏱: 1.05s
+[SCRAPE].. ◆ https://ty.wikipedia.org                                                                             | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://ty.wikipedia.org                                                                             | ✓ | ⏱: 1.05s
+[FETCH]... ↓ https://uz.wikipedia.org                                                                             | ✓ | ⏱: 1.23s 
+[SCRAPE].. ◆ https://uz.wikipedia.org                                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://uz.wikipedia.org                                                                             | ✓ | ⏱: 1.23s
+[FETCH]... ↓ https://ur.wikipedia.org                                                                             | ✓ | ⏱: 1.28s 
+[SCRAPE].. ◆ https://ur.wikipedia.org                                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://ur.wikipedia.org                                                                             | ✓ | ⏱: 1.29s
+[FETCH]... ↓ https://uk.wikipedia.org                                                                             | ✓ | ⏱: 1.34s 
+[SCRAPE].. ◆ https://uk.wikipedia.org                                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://uk.wikipedia.org                                                                             | ✓ | ⏱: 1.35s
+[FETCH]... ↓ https://vec.wikipedia.org                                                                            | ✓ | ⏱: 1.31s
+[SCRAPE].. ◆ https://vec.wikipedia.org                                                                            | ✓ | ⏱: 0.08s 
+[COMPLETE] ● https://vec.wikipedia.org                                                                            | ✓ | ⏱: 1.40s 
+[FETCH]... ↓ https://war.wikipedia.org                                                                            | ✓ | ⏱: 0.96s
+[SCRAPE].. ◆ https://war.wikipedia.org                                                                            | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://war.wikipedia.org                                                                            | ✓ | ⏱: 0.97s
+[FETCH]... ↓ https://vi.wikipedia.org                                                                             | ✓ | ⏱: 1.41s 
+[SCRAPE].. ◆ https://vi.wikipedia.org                                                                             | ✓ | ⏱: 0.10s 
+[COMPLETE] ● https://vi.wikipedia.org                                                                             | ✓ | ⏱: 1.51s 
+[FETCH]... ↓ https://xmf.wikipedia.org                                                                            | ✓ | ⏱: 1.04s 
+[SCRAPE].. ◆ https://xmf.wikipedia.org                                                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://xmf.wikipedia.org                                                                            | ✓ | ⏱: 1.05s
+[FETCH]... ↓ https://xal.wikipedia.org                                                                            | ✓ | ⏱: 1.20s 
+[SCRAPE].. ◆ https://xal.wikipedia.org                                                                            | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://xal.wikipedia.org                                                                            | ✓ | ⏱: 1.21s 
+[FETCH]... ↓ https://zu.wikipedia.org                                                                             | ✓ | ⏱: 0.83s
+[SCRAPE].. ◆ https://zu.wikipedia.org                                                                             | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://zu.wikipedia.org                                                                             | ✓ | ⏱: 0.85s
+[FETCH]... ↓ https://yo.wikipedia.org                                                                             | ✓ | ⏱: 1.03s
+[SCRAPE].. ◆ https://yo.wikipedia.org                                                                             | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://yo.wikipedia.org                                                                             | ✓ | ⏱: 1.04s 
+[FETCH]... ↓ https://wa.wikipedia.org                                                                             | ✓ | ⏱: 1.65s
+[SCRAPE].. ◆ https://wa.wikipedia.org                                                                             | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://wa.wikipedia.org                                                                             | ✓ | ⏱: 1.65s 
+[FETCH]... ↓ https://zh-min-nan.wikipedia.org                                                                     | ✓ | ⏱: 1.01s
+[SCRAPE].. ◆ https://zh-min-nan.wikipedia.org                                                                     | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://zh-min-nan.wikipedia.org                                                                     | ✓ | ⏱: 1.02s
+[FETCH]... ↓ https://zh-classical.wikipedia.org                                                                   | ✓ | ⏱: 1.03s
+[SCRAPE].. ◆ https://zh-classical.wikipedia.org                                                                   | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://zh-classical.wikipedia.org                                                                   | ✓ | ⏱: 1.04s
+[FETCH]... ↓ https://zh-yue.wikipedia.org                                                                         | ✓ | ⏱: 1.02s
+[SCRAPE].. ◆ https://zh-yue.wikipedia.org                                                                         | ✓ | ⏱: 0.00s 
+[COMPLETE] ● https://zh-yue.wikipedia.org                                                                         | ✓ | ⏱: 1.02s
+[FETCH]... ↓ https://za.wikipedia.org                                                                             | ✓ | ⏱: 1.06s
+[SCRAPE].. ◆ https://za.wikipedia.org                                                                             | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://za.wikipedia.org                                                                             | ✓ | ⏱: 1.07s
+[FETCH]... ↓ https://yi.wikipedia.org                                                                             | ✓ | ⏱: 1.09s
+[SCRAPE].. ◆ https://yi.wikipedia.org                                                                             | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://yi.wikipedia.org                                                                             | ✓ | ⏱: 1.09s
+[FETCH]... ↓ https://zgh.wikipedia.org                                                                            | ✓ | ⏱: 1.07s 
+[SCRAPE].. ◆ https://zgh.wikipedia.org                                                                            | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://zgh.wikipedia.org                                                                            | ✓ | ⏱: 1.08s
+[FETCH]... ↓ https://vo.wikipedia.org                                                                             | ✓ | ⏱: 1.72s
+[SCRAPE].. ◆ https://vo.wikipedia.org                                                                             | ✓ | ⏱: 0.00s
+[COMPLETE] ● https://vo.wikipedia.org                                                                             | ✓ | ⏱: 1.72s 
+[FETCH]... ↓ https://zh.wikipedia.org                                                                             | ✓ | ⏱: 1.23s 
+[SCRAPE].. ◆ https://zh.wikipedia.org                                                                             | ✓ | ⏱: 0.17s 
+[COMPLETE] ● https://zh.wikipedia.org                                                                             | ✓ | ⏱: 1.40s 
+[FETCH]... ↓ https://wuu.wikipedia.org                                                                            | ✓ | ⏱: 1.82s 
+[SCRAPE].. ◆ https://wuu.wikipedia.org                                                                            | ✓ | ⏱: 0.11s 
+[COMPLETE] ● https://wuu.wikipedia.org                                                                            | ✓ | ⏱: 1.93s 
+Crawled 300 pages in total
+URL: https://www.wikipedia.org
+Depth: 0
+URL: https://as.wikipedia.org
+Depth: 1
+URL: https://als.wikipedia.org
+Depth: 1
+URL: https://ast.wikipedia.org
+Depth: 1
+URL: https://ay.wikipedia.org
+Depth: 1
+URL: https://av.wikipedia.org
+Depth: 1
+URL: https://af.wikipedia.org
+Depth: 1
+URL: https://ab.wikipedia.org
+Depth: 1
+URL: https://ace.wikipedia.org
+Depth: 1
+URL: https://avk.wikipedia.org
+Depth: 1
+URL: https://arz.wikipedia.org
+Depth: 1
+URL: https://ary.wikipedia.org
+Depth: 1
+URL: https://ami.wikipedia.org
+Depth: 1
+URL: https://ar.wikipedia.org
+Depth: 1
+URL: https://atj.wikipedia.org
+Depth: 1
+URL: https://anp.wikipedia.org
+Depth: 1
+URL: https://am.wikipedia.org
+Depth: 1
+URL: https://ang.wikipedia.org
+Depth: 1
+URL: https://an.wikipedia.org
+Depth: 1
+URL: https://arc.wikipedia.org
+Depth: 1
+URL: https://az.wikipedia.org
+Depth: 1
+URL: https://azb.wikipedia.org
+Depth: 1
+URL: https://be-tarask.wikipedia.org
+Depth: 1
+URL: https://ba.wikipedia.org
+Depth: 1
+URL: https://bcl.wikipedia.org
+Depth: 1
+URL: https://bat-smg.wikipedia.org
+Depth: 1
+URL: https://bbc.wikipedia.org
+Depth: 1
+URL: https://ban.wikipedia.org
+Depth: 1
+URL: https://be.wikipedia.org
+Depth: 1
+URL: https://bi.wikipedia.org
+Depth: 1
+URL: https://bar.wikipedia.org
+Depth: 1
+URL: https://bn.wikipedia.org
+Depth: 1
+URL: https://br.wikipedia.org
+Depth: 1
+URL: https://bs.wikipedia.org
+Depth: 1
+URL: https://bh.wikipedia.org
+Depth: 1
+URL: https://bjn.wikipedia.org
+Depth: 1
+URL: https://cbk-zam.wikipedia.org
+Depth: 1
+URL: https://btm.wikipedia.org
+Depth: 1
+URL: https://bpy.wikipedia.org
+Depth: 1
+URL: https://bo.wikipedia.org
+Depth: 1
+URL: https://bew.wikipedia.org
+Depth: 1
+URL: https://ca.wikipedia.org
+Depth: 1
+URL: https://bxr.wikipedia.org
+Depth: 1
+URL: https://cdo.wikipedia.org
+Depth: 1
+URL: https://co.wikipedia.org
+Depth: 1
+URL: https://bg.wikipedia.org
+Depth: 1
+URL: https://cs.wikipedia.org
+Depth: 1
+URL: https://blk.wikipedia.org
+Depth: 1
+URL: https://ceb.wikipedia.org
+Depth: 1
+URL: https://bug.wikipedia.org
+Depth: 1
+URL: https://chr.wikipedia.org
+Depth: 1
+URL: https://ce.wikipedia.org
+Depth: 1
+URL: https://de.wikipedia.org
+Depth: 1
+URL: https://cy.wikipedia.org
+Depth: 1
+URL: https://cv.wikipedia.org
+Depth: 1
+URL: https://dag.wikipedia.org
+Depth: 1
+URL: https://crh.wikipedia.org
+Depth: 1
+URL: https://csb.wikipedia.org
+Depth: 1
+URL: https://en.wikipedia.org
+Depth: 1
+URL: https://ckb.wikipedia.org
+Depth: 1
+URL: https://dsb.wikipedia.org
+Depth: 1
+URL: https://da.wikipedia.org
+Depth: 1
+URL: https://diq.wikipedia.org
+Depth: 1
+URL: https://dga.wikipedia.org
+Depth: 1
+URL: https://el.wikipedia.org
+Depth: 1
+URL: https://eo.wikipedia.org
+Depth: 1
+URL: https://eml.wikipedia.org
+Depth: 1
+URL: https://dtp.wikipedia.org
+Depth: 1
+URL: https://ee.wikipedia.org
+Depth: 1
+URL: https://cu.wikipedia.org
+Depth: 1
+URL: https://es.wikipedia.org
+Depth: 1
+URL: https://dv.wikipedia.org
+Depth: 1
+URL: https://et.wikipedia.org
+Depth: 1
+URL: https://ext.wikipedia.org
+Depth: 1
+URL: https://eu.wikipedia.org
+Depth: 1
+URL: https://fat.wikipedia.org
+Depth: 1
+URL: https://fa.wikipedia.org
+Depth: 1
+URL: https://ff.wikipedia.org
+Depth: 1
+URL: https://frr.wikipedia.org
+Depth: 1
+URL: https://fo.wikipedia.org
+Depth: 1
+URL: https://fur.wikipedia.org
+Depth: 1
+URL: https://fj.wikipedia.org
+Depth: 1
+URL: https://frp.wikipedia.org
+Depth: 1
+URL: https://fon.wikipedia.org
+Depth: 1
+URL: https://fr.wikipedia.org
+Depth: 1
+URL: https://fi.wikipedia.org
+Depth: 1
+URL: https://fy.wikipedia.org
+Depth: 1
+URL: https://gl.wikipedia.org
+Depth: 1
+URL: https://ga.wikipedia.org
+Depth: 1
+URL: https://gd.wikipedia.org
+Depth: 1
+URL: https://gan.wikipedia.org
+Depth: 1
+URL: https://gag.wikipedia.org
+Depth: 1
+URL: https://gcr.wikipedia.org
+Depth: 1
+URL: https://gor.wikipedia.org
+Depth: 1
+URL: https://gu.wikipedia.org
+Depth: 1
+URL: https://gpe.wikipedia.org
+Depth: 1
+URL: https://gn.wikipedia.org
+Depth: 1
+URL: https://gom.wikipedia.org
+Depth: 1
+URL: https://gur.wikipedia.org
+Depth: 1
+URL: https://glk.wikipedia.org
+Depth: 1
+URL: https://ha.wikipedia.org
+Depth: 1
+URL: https://he.wikipedia.org
+Depth: 1
+URL: https://guw.wikipedia.org
+Depth: 1
+URL: https://hak.wikipedia.org
+Depth: 1
+URL: https://haw.wikipedia.org
+Depth: 1
+URL: https://gv.wikipedia.org
+Depth: 1
+URL: https://hif.wikipedia.org
+Depth: 1
+URL: https://hsb.wikipedia.org
+Depth: 1
+URL: https://ht.wikipedia.org
+Depth: 1
+URL: https://ia.wikipedia.org
+Depth: 1
+URL: https://hu.wikipedia.org
+Depth: 1
+URL: https://ie.wikipedia.org
+Depth: 1
+URL: https://io.wikipedia.org
+Depth: 1
+URL: https://ig.wikipedia.org
+Depth: 1
+URL: https://inh.wikipedia.org
+Depth: 1
+URL: https://iba.wikipedia.org
+Depth: 1
+URL: https://hyw.wikipedia.org
+Depth: 1
+URL: https://ilo.wikipedia.org
+Depth: 1
+URL: https://hr.wikipedia.org
+Depth: 1
+URL: https://is.wikipedia.org
+Depth: 1
+URL: https://id.wikipedia.org
+Depth: 1
+URL: https://hi.wikipedia.org
+Depth: 1
+URL: https://hy.wikipedia.org
+Depth: 1
+URL: https://jam.wikipedia.org
+Depth: 1
+URL: https://kaa.wikipedia.org
+Depth: 1
+URL: https://jbo.wikipedia.org
+Depth: 1
+URL: https://kab.wikipedia.org
+Depth: 1
+URL: https://ka.wikipedia.org
+Depth: 1
+URL: https://jv.wikipedia.org
+Depth: 1
+URL: https://it.wikipedia.org
+Depth: 1
+URL: https://ja.wikipedia.org
+Depth: 1
+URL: https://kge.wikipedia.org
+Depth: 1
+URL: https://knc.wikipedia.org
+Depth: 1
+URL: https://kn.wikipedia.org
+Depth: 1
+URL: https://ks.wikipedia.org
+Depth: 1
+URL: https://krc.wikipedia.org
+Depth: 1
+URL: https://kk.wikipedia.org
+Depth: 1
+URL: https://kus.wikipedia.org
+Depth: 1
+URL: https://ki.wikipedia.org
+Depth: 1
+URL: https://kbd.wikipedia.org
+Depth: 1
+URL: https://koi.wikipedia.org
+Depth: 1
+URL: https://kbp.wikipedia.org
+Depth: 1
+URL: https://km.wikipedia.org
+Depth: 1
+URL: https://ku.wikipedia.org
+Depth: 1
+URL: https://kg.wikipedia.org
+Depth: 1
+URL: https://ksh.wikipedia.org
+Depth: 1
+URL: https://kv.wikipedia.org
+Depth: 1
+URL: https://kw.wikipedia.org
+Depth: 1
+URL: https://ky.wikipedia.org
+Depth: 1
+URL: https://la.wikipedia.org
+Depth: 1
+URL: https://lad.wikipedia.org
+Depth: 1
+URL: https://ko.wikipedia.org
+Depth: 1
+URL: https://lbe.wikipedia.org
+Depth: 1
+URL: https://lb.wikipedia.org
+Depth: 1
+URL: https://lez.wikipedia.org
+Depth: 1
+URL: https://lfn.wikipedia.org
+Depth: 1
+URL: https://lg.wikipedia.org
+Depth: 1
+URL: https://li.wikipedia.org
+Depth: 1
+URL: https://lv.wikipedia.org
+Depth: 1
+URL: https://lo.wikipedia.org
+Depth: 1
+URL: https://ln.wikipedia.org
+Depth: 1
+URL: https://lij.wikipedia.org
+Depth: 1
+URL: https://lmo.wikipedia.org
+Depth: 1
+URL: https://lld.wikipedia.org
+Depth: 1
+URL: https://lt.wikipedia.org
+Depth: 1
+URL: https://ltg.wikipedia.org
+Depth: 1
+URL: https://ml.wikipedia.org
+Depth: 1
+URL: https://mad.wikipedia.org
+Depth: 1
+URL: https://mg.wikipedia.org
+Depth: 1
+URL: https://mai.wikipedia.org
+Depth: 1
+URL: https://mi.wikipedia.org
+Depth: 1
+URL: https://map-bms.wikipedia.org
+Depth: 1
+URL: https://mhr.wikipedia.org
+Depth: 1
+URL: https://mdf.wikipedia.org
+Depth: 1
+URL: https://min.wikipedia.org
+Depth: 1
+URL: https://mk.wikipedia.org
+Depth: 1
+URL: https://mrj.wikipedia.org
+Depth: 1
+URL: https://mt.wikipedia.org
+Depth: 1
+URL: https://mnw.wikipedia.org
+Depth: 1
+URL: https://mn.wikipedia.org
+Depth: 1
+URL: https://mos.wikipedia.org
+Depth: 1
+URL: https://mzn.wikipedia.org
+Depth: 1
+URL: https://mwl.wikipedia.org
+Depth: 1
+URL: https://mni.wikipedia.org
+Depth: 1
+URL: https://my.wikipedia.org
+Depth: 1
+URL: https://nah.wikipedia.org
+Depth: 1
+URL: https://mr.wikipedia.org
+Depth: 1
+URL: https://ms.wikipedia.org
+Depth: 1
+URL: https://myv.wikipedia.org
+Depth: 1
+URL: https://nl.wikipedia.org
+Depth: 1
+URL: https://nia.wikipedia.org
+Depth: 1
+URL: https://nrm.wikipedia.org
+Depth: 1
+URL: https://nds-nl.wikipedia.org
+Depth: 1
+URL: https://nds.wikipedia.org
+Depth: 1
+URL: https://nso.wikipedia.org
+Depth: 1
+URL: https://ne.wikipedia.org
+Depth: 1
+URL: https://nov.wikipedia.org
+Depth: 1
+URL: https://nv.wikipedia.org
+Depth: 1
+URL: https://ny.wikipedia.org
+Depth: 1
+URL: https://nqo.wikipedia.org
+Depth: 1
+URL: https://new.wikipedia.org
+Depth: 1
+URL: https://oc.wikipedia.org
+Depth: 1
+URL: https://nn.wikipedia.org
+Depth: 1
+URL: https://nap.wikipedia.org
+Depth: 1
+URL: https://olo.wikipedia.org
+Depth: 1
+URL: https://or.wikipedia.org
+Depth: 1
+URL: https://no.wikipedia.org
+Depth: 1
+URL: https://os.wikipedia.org
+Depth: 1
+URL: https://om.wikipedia.org
+Depth: 1
+URL: https://pa.wikipedia.org
+Depth: 1
+URL: https://pap.wikipedia.org
+Depth: 1
+URL: https://pms.wikipedia.org
+Depth: 1
+URL: https://qu.wikipedia.org
+Depth: 1
+URL: https://pdc.wikipedia.org
+Depth: 1
+URL: https://pfl.wikipedia.org
+Depth: 1
+URL: https://pcm.wikipedia.org
+Depth: 1
+URL: https://pag.wikipedia.org
+Depth: 1
+URL: https://ps.wikipedia.org
+Depth: 1
+URL: https://pcd.wikipedia.org
+Depth: 1
+URL: https://pnb.wikipedia.org
+Depth: 1
+URL: https://pi.wikipedia.org
+Depth: 1
+URL: https://rm.wikipedia.org
+Depth: 1
+URL: https://pl.wikipedia.org
+Depth: 1
+URL: https://roa-tara.wikipedia.org
+Depth: 1
+URL: https://ru.wikipedia.org
+Depth: 1
+URL: https://ro.wikipedia.org
+Depth: 1
+URL: https://roa-rup.wikipedia.org
+Depth: 1
+URL: https://pam.wikipedia.org
+Depth: 1
+URL: https://pt.wikipedia.org
+Depth: 1
+URL: https://sa.wikipedia.org
+Depth: 1
+URL: https://rue.wikipedia.org
+Depth: 1
+URL: https://si.wikipedia.org
+Depth: 1
+URL: https://shi.wikipedia.org
+Depth: 1
+URL: https://sc.wikipedia.org
+Depth: 1
+URL: https://sat.wikipedia.org
+Depth: 1
+URL: https://rw.wikipedia.org
+Depth: 1
+URL: https://scn.wikipedia.org
+Depth: 1
+URL: https://sd.wikipedia.org
+Depth: 1
+URL: https://sah.wikipedia.org
+Depth: 1
+URL: https://sk.wikipedia.org
+Depth: 1
+URL: https://shn.wikipedia.org
+Depth: 1
+URL: https://sco.wikipedia.org
+Depth: 1
+URL: https://se.wikipedia.org
+Depth: 1
+URL: https://skr.wikipedia.org
+Depth: 1
+URL: https://sl.wikipedia.org
+Depth: 1
+URL: https://sm.wikipedia.org
+Depth: 1
+URL: https://sn.wikipedia.org
+Depth: 1
+URL: https://so.wikipedia.org
+Depth: 1
+URL: https://sh.wikipedia.org
+Depth: 1
+URL: https://smn.wikipedia.org
+Depth: 1
+URL: https://simple.wikipedia.org
+Depth: 1
+URL: https://su.wikipedia.org
+Depth: 1
+URL: https://sw.wikipedia.org
+Depth: 1
+URL: https://srn.wikipedia.org
+Depth: 1
+URL: https://sv.wikipedia.org
+Depth: 1
+URL: https://szl.wikipedia.org
+Depth: 1
+URL: https://st.wikipedia.org
+Depth: 1
+URL: https://ss.wikipedia.org
+Depth: 1
+URL: https://sq.wikipedia.org
+Depth: 1
+URL: https://sr.wikipedia.org
+Depth: 1
+URL: https://syl.wikipedia.org
+Depth: 1
+URL: https://stq.wikipedia.org
+Depth: 1
+URL: https://szy.wikipedia.org
+Depth: 1
+URL: https://te.wikipedia.org
+Depth: 1
+URL: https://tay.wikipedia.org
+Depth: 1
+URL: https://tet.wikipedia.org
+Depth: 1
+URL: https://tg.wikipedia.org
+Depth: 1
+URL: https://tl.wikipedia.org
+Depth: 1
+URL: https://tly.wikipedia.org
+Depth: 1
+URL: https://tk.wikipedia.org
+Depth: 1
+URL: https://tr.wikipedia.org
+Depth: 1
+URL: https://ta.wikipedia.org
+Depth: 1
+URL: https://to.wikipedia.org
+Depth: 1
+URL: https://tn.wikipedia.org
+Depth: 1
+URL: https://tpi.wikipedia.org
+Depth: 1
+URL: https://tum.wikipedia.org
+Depth: 1
+URL: https://tt.wikipedia.org
+Depth: 1
+URL: https://trv.wikipedia.org
+Depth: 1
+URL: https://th.wikipedia.org
+Depth: 1
+URL: https://ty.wikipedia.org
+Depth: 1
+URL: https://uz.wikipedia.org
+Depth: 1
+URL: https://ur.wikipedia.org
+Depth: 1
+URL: https://uk.wikipedia.org
+Depth: 1
+URL: https://vec.wikipedia.org
+Depth: 1
+URL: https://war.wikipedia.org
+Depth: 1
+URL: https://vi.wikipedia.org
+Depth: 1
+URL: https://xmf.wikipedia.org
+Depth: 1
+URL: https://xal.wikipedia.org
+Depth: 1
+URL: https://zu.wikipedia.org
+Depth: 1
+URL: https://yo.wikipedia.org
+Depth: 1
+URL: https://wa.wikipedia.org
+Depth: 1
+URL: https://zh-min-nan.wikipedia.org
+Depth: 1
+URL: https://zh-classical.wikipedia.org
+Depth: 1
+URL: https://zh-yue.wikipedia.org
+Depth: 1
+URL: https://za.wikipedia.org
+Depth: 1
+URL: https://yi.wikipedia.org
+Depth: 1
+URL: https://zgh.wikipedia.org
+Depth: 1
+URL: https://vo.wikipedia.org
+Depth: 1
+URL: https://zh.wikipedia.org
+Depth: 1
+URL: https://wuu.wikipedia.org
+Depth: 1
